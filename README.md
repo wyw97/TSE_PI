@@ -3,6 +3,10 @@ Official Code for Target Sound Extraction under Reverberant Environments with Pi
 
 ## Introduction
 
+<img width="1280" alt="TSE_PI" src="https://github.com/wyw97/TSE_PI/assets/23208721/35018963-ce82-4ac7-a563-21839e48921a">
+
+
+
 ### Stage 1 Conditional Pitch Estimation (F0 Extraction)
 
 
